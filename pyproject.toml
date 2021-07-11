@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cse163-hw0"
+version = "0.1.0"
+description = "Test starter code for CSE 163 - HW0"
+authors = ["Hunter Schafer <hschafer@uw.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
