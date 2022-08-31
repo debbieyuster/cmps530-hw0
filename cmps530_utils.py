@@ -1,8 +1,7 @@
 """
-Hunter Schafer
-CSE 163 AX
+Author: Hunter Schafer
 
-A file that contains some CSE 163 specific helper functions
+A file that contains some CMPS 530 specific helper functions.
 You do not need to understand how these functions are implemented,
 but you should be able to use the ones we described in class!
 """

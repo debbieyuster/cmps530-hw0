@@ -1,6 +1,6 @@
 import hw0
 
-from cse163_utils import assert_equals
+from cmps530_utils import assert_equals
 
 def test_total():
     # The regular case
@@ -14,5 +14,3 @@ def main():
 
 if __name__ == '__main__':    
     main()
-    
-
